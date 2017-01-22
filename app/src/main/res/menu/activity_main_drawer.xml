@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_toronto"
+            android:title="Toronto" />
+        <item android:id="@+id/nav_ottawa"
+            android:title="Ottawa" />
+        <item android:id="@+id/nav_newyork"
+            android:title="NewYork" />
+        <item android:id="@+id/nav_washington"
+            android:title="Washington D.C." />
+    </group>
+</menu>

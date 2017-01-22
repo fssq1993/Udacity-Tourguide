@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tour</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="toronto_name1">Eaton Center</string>
+    <string name="toronto_location1"> 220 Yonge St, Toronto, ON M5B 2H1</string>
+    <string name="toronto_conten1">The Toronto Eaton Centre (corporately styled as the CF Toronto Eaton Centre
+        since September 2015)[1] is a shopping mall and office complex in Downtown Toronto, Ontario,
+        Canada. </string>
+
+    <string name="toronto_name2">Island Park</string>
+    <string name="toronto_location2">Toronto, Ontario</string>
+    <string name="toronto_conten2">The Toronto Islands (formerly known as Island of Hiawatha and also known as Menecing,
+        meaning "On the Island" in the Ojibwa language)[1][2] are a chain of small islands in Lake Ontario, south of mainland Toronto,
+        Ontario, Canada.</string>
+
+    <string name="city_name3">Name</string>
+    <string name="city_location3">Location</string>
+    <string name="city_conten3">The Toronto Islands (formerly known as Island of Hiawatha and also known as Menecing,
+        meaning "On the Island" in the Ojibwa language)[1][2] are a chain of small islands in Lake Ontario, south of mainland Toronto,
+        Ontario, Canada.</string>
+</resources>
